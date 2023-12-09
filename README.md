@@ -4,7 +4,7 @@
 # About 
 
 
-- 🔭 I’m currently working on [Indian_Startup_Ecosystem](https://github.com/PacalineN/Indian_Startup_Ecosystem)
+- 🔭 I’m currently working on https://github.com/PacalineN/LP2_Machine_Learning_Project
 
 - 👨‍💻 All of my projects are available at [https://pacalinen.github.io/My_portfolio_website/](https://pacalinen.github.io/My_portfolio_website/)
 
